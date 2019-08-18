@@ -1,5 +1,5 @@
-# Matplotlib
-## Python - This is a python code written to print the IP and the number of connections From the access log as a barchart. 
+# Visualize IP and number of connectiosn from accesslog
+## Python - This is a python code written to visualize the IP and the number of connections From the access log as a barchart. 
 
 I have used the module matplotlib to plot the barchart. matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. 
 
