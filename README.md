@@ -56,4 +56,5 @@ for ip,hit in ipCounter.most_common(4):
 
 ## The output of the code will look like as following.
 
-![Image of Yaktocat](https://ibb.co/znyLgr1)
+!(https://ibb.co/znyLgr1)
+<a href="https://ibb.co/znyLgr1"><img src="https://i.ibb.co/K0MQgXY/barchart-2.jpg" alt="barchart-2" border="0"></a><br /><a target='_blank' href='https://movieplotholes.com/the-hobbit-an-unexpected-journey'>the hobbit an unexpected journey movie</a><br />
